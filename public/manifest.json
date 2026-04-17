@@ -1,0 +1,16 @@
+{
+  "short_name": "MoneyTracker",
+  "name": "MoneyTracker -  catatan keuangan",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes" : "192c192"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#10b981",
+  "background_color": "#f9fafb"
+
+}
